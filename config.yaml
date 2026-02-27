@@ -1,0 +1,22 @@
+embeddings:
+  sbert_model: sentence-transformers/all-mpnet-base-v2
+  use_cross_encoder: true
+  cross_encoder_model: cross-encoder/ms-marco-MiniLM-L-6-v2
+  normalize: true
+  topk_per_requirement: 3
+
+scoring_weights:
+  keyword_coverage: 0.35
+  skill_overlap: 0.30
+  semantic_alignment: 0.25
+  formatting: 0.10
+
+thresholds:
+  semantic_cosine_min: 0.35
+  accept_rewrite_delta: 0.05
+  bullet_min_words: 8
+  bullet_max_words: 24
+
+paths:
+  skills_taxonomy: data/taxonomy/skills_master.json
+  output_dir: data/output

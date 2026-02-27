@@ -1,0 +1,3 @@
+We need a Machine Learning Engineer with strong Python, TensorFlow, and MLOps.
+Experience building data pipelines, deploying models, and working with SQL is required.
+Experience with Airflow, CI/CD, and cloud platforms is preferred.

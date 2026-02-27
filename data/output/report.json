@@ -1,0 +1,146 @@
+{
+  "before_score": 0,
+  "after_score": 44.63,
+  "before_subscores": {
+    "Keyword": 45.0,
+    "Skills": 43.75,
+    "Semantic": 29.02,
+    "Format": 85.0
+  },
+  "after_subscores": {
+    "Keyword": 45.0,
+    "Skills": 43.75,
+    "Semantic": 29.02,
+    "Format": 85.0
+  },
+  "proposals": [
+    {
+      "target": "cd",
+      "evidence": "Yuvraj Rajure Skills: Python, SQL, Pandas, Machine Learning",
+      "bullet": "Proficient in Python, SQL, Pandas, and Machine Learning with a strong foundation in CD principles.",
+      "status": "ok",
+      "reason": "llm_ok"
+    },
+    {
+      "target": "kubernetes",
+      "evidence": "Yuvraj Rajure Skills: Python, SQL, Pandas, Machine Learning",
+      "bullet": "",
+      "status": "skip",
+      "reason": "failed_validation"
+    },
+    {
+      "target": "mlops",
+      "evidence": "Yuvraj Rajure Skills: Python, SQL, Pandas, Machine Learning",
+      "bullet": "Utilize Python, SQL, Pandas, and Machine Learning expertise to enhance MLOps processes.",
+      "status": "ok",
+      "reason": "llm_ok"
+    },
+    {
+      "target": "cloud",
+      "evidence": "Yuvraj Rajure Skills: Python, SQL, Pandas, Machine Learning",
+      "bullet": "",
+      "status": "skip",
+      "reason": "failed_validation"
+    },
+    {
+      "target": "tensorflow",
+      "evidence": "Yuvraj Rajure Skills: Python, SQL, Pandas, Machine Learning",
+      "bullet": "Utilized Python, SQL, Pandas, and TensorFlow for Machine Learning projects.",
+      "status": "ok",
+      "reason": "llm_ok"
+    },
+    {
+      "target": "ci",
+      "evidence": "Yuvraj Rajure Skills: Python, SQL, Pandas, Machine Learning",
+      "bullet": "",
+      "status": "not_applicable",
+      "reason": "HTTPSConnectionPool(host='openrouter.ai', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "target": "engineer",
+      "evidence": "Yuvraj Rajure Skills: Python, SQL, Pandas, Machine Learning",
+      "bullet": "Proficient engineer skilled in Python, SQL, Pandas, and Machine Learning techniques.",
+      "status": "ok",
+      "reason": "llm_ok"
+    },
+    {
+      "target": "strong",
+      "evidence": "Yuvraj Rajure Skills: Python, SQL, Pandas, Machine Learning",
+      "bullet": "Demonstrates strong proficiency in Python, SQL, Pandas, and Machine Learning.",
+      "status": "ok",
+      "reason": "llm_ok"
+    }
+  ],
+  "gaps": [
+    {
+      "term": "cd",
+      "estimated_gain": 1.5
+    },
+    {
+      "term": "kubernetes",
+      "estimated_gain": 1.5
+    },
+    {
+      "term": "mlops",
+      "estimated_gain": 1.5
+    },
+    {
+      "term": "cloud",
+      "estimated_gain": 1.5
+    },
+    {
+      "term": "tensorflow",
+      "estimated_gain": 1.5
+    },
+    {
+      "term": "ci",
+      "estimated_gain": 1.5
+    },
+    {
+      "term": "engineer",
+      "estimated_gain": 1.0
+    },
+    {
+      "term": "strong",
+      "estimated_gain": 1.0
+    },
+    {
+      "term": "mlops",
+      "estimated_gain": 1.0
+    },
+    {
+      "term": "experience",
+      "estimated_gain": 1.0
+    },
+    {
+      "term": "prefer",
+      "estimated_gain": 1.0
+    },
+    {
+      "term": "tensorflow",
+      "estimated_gain": 1.0
+    },
+    {
+      "term": "datum",
+      "estimated_gain": 1.0
+    },
+    {
+      "term": "work",
+      "estimated_gain": 1.0
+    },
+    {
+      "term": "require",
+      "estimated_gain": 1.0
+    },
+    {
+      "term": "cloud",
+      "estimated_gain": 1.0
+    },
+    {
+      "term": "platform",
+      "estimated_gain": 1.0
+    }
+  ],
+  "timestamp": "2026-02-20T11:01:19.465725",
+  "model": "openai/gpt-3.5-turbo"
+}

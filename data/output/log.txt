@@ -1,0 +1,19 @@
+Initial score: 37.38% | subs: {'Keyword': 45.0, 'Skills': 43.75, 'Semantic': 0.0, 'Format': 85.0}
+Initial score: 37.38% | subs: {'Keyword': 45.0, 'Skills': 43.75, 'Semantic': 0.0, 'Format': 85.0}
+Initial score: 37.38% | subs: {'Keyword': 45.0, 'Skills': 43.75, 'Semantic': 0.0, 'Format': 85.0}
+Initial score: 37.38% | subs: {'Keyword': 45.0, 'Skills': 43.75, 'Semantic': 0.0, 'Format': 85.0}
+Saved outputs. Before: 37.38% After: 37.38%
+Initial score: 37.38% | subs: {'Keyword': 45.0, 'Skills': 43.75, 'Semantic': 0.0, 'Format': 85.0}
+Saved outputs. Before: 37.38% After: 37.38%
+Initial score: 37.38% | subs: {'Keyword': 45.0, 'Skills': 43.75, 'Semantic': 0.0, 'Format': 85.0}
+Saved outputs. Before: 37.38% After: 37.38%
+Initial score: 37.38% | subs: {'Keyword': 45.0, 'Skills': 43.75, 'Semantic': 0.0, 'Format': 85.0}
+Saved results. Before: 37.38% After: 37.38%
+Initial score: 37.38% | subs: {'Keyword': 45.0, 'Skills': 43.75, 'Semantic': 0.0, 'Format': 85.0}
+Saved results. Before: 0 After: 37.38%
+Initial score: 37.62% | subs: {'Keyword': 45.0, 'Skills': 43.75, 'Semantic': 1.0, 'Format': 85.0}
+Saved results. Before: 0 After: 44.55%
+Initial score: 37.62% | subs: {'Keyword': 45.0, 'Skills': 43.75, 'Semantic': 1.0, 'Format': 85.0}
+Initial score: 37.62% | subs: {'Keyword': 45.0, 'Skills': 43.75, 'Semantic': 1.0, 'Format': 85.0}
+Saved results. Before: 0 After: 44.63%
+Initial score: 37.62% | subs: {'Keyword': 45.0, 'Skills': 43.75, 'Semantic': 1.0, 'Format': 85.0}
