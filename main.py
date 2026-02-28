@@ -41,7 +41,7 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     origins = [
-    "https://ats-frontend-6z012aniy-05maithilis-projects.vercel.app",
+    "https://ats-frontend-zeta.vercel.app",
     "http://localhost:5173",
 ]
 
@@ -791,6 +791,7 @@ app.router.lifespan_context = lifespan
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8003)
+
 
 
 
